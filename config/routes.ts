@@ -46,6 +46,42 @@ export default [
         component: '@/pages/knowledge/index.tsx'
       },
       {
+        path: '/knowledge/coleoptera',
+        name: 'coleoptera',
+        icon: 'smile',
+        component: '@/pages/knowledge/coleoptera/index.tsx'
+      },
+      {
+        path: '/knowledge/isoptera',
+        name: 'isoptera',
+        icon: 'smile',
+        component: '@/pages/knowledge/isoptera/index.tsx'
+      },
+      {
+        path: '/knowledge/lepidoptera',
+        name: 'lepidoptera',
+        icon: 'smile',
+        component: '@/pages/knowledge/lepidoptera/index.tsx'
+      },
+      {
+        path: '/knowledge/other',
+        name: 'other',
+        icon: 'smile',
+        component: '@/pages/knowledge/other/index.tsx'
+      },
+      {
+        path: '/travel',
+        name: 'travel',
+        icon: 'smile',
+        component: '@/pages/travel'
+      },
+      {
+        path: '/medicine',
+        name: 'medicine',
+        icon: 'smile',
+        component: '@/pages/medicine/index.tsx'
+      },
+       {
         path: '/card',
         name: 'card',
         icon: 'smile',

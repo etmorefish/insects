@@ -43,7 +43,7 @@ export default function IndexPage() {
     },
     {
       label: (
-        <a href="/card" target="_blank" rel="noopener noreferrer">
+        <a href="/travel" target="_blank" rel="noopener noreferrer">
           旅游发展
         </a>
       ),
@@ -51,7 +51,7 @@ export default function IndexPage() {
     },
     {
       label: (
-        <a href="/card" target="_blank" rel="noopener noreferrer">
+        <a href="/medicine" target="_blank" rel="noopener noreferrer">
           昆虫入药
         </a>
       ),

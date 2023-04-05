@@ -19,7 +19,7 @@ const items: TabsProps['items'] = [
     <blockquote>
       <Title level={3}>讲师 黄冈师范学院</Title>
     </blockquote>
-    <Paragraph>
+    <Paragraph style={{textIndent: '2em'}}>
       毛斌，男，博士，讲师，中共党员，主要从事昆虫繁殖发育、动物多样性及化学生态研究；以第一作者和共同作者发表论文10篇，其中SCI论文9篇，中科院一区SCI论文一篇；参与国家自然科学基金3项；主要讲授动物学和分子生物学等相关课程。
     </Paragraph>
     <Divider />
@@ -85,7 +85,7 @@ const items: TabsProps['items'] = [
     <blockquote>
       <Title level={3}>教授 黄冈师范学院硕士生导师</Title>
     </blockquote>
-    <Paragraph>
+    <Paragraph style={{textIndent: '2em'}}>
     傅悦，女，博士，教授，中共党员。湖北省第四批博士服务团成员、湖北省“三区”人才科技特派员。主要讲授动物学、生态学、动物生理学等课程。从事动物分类学、分子系统学等基础研究。近年来，主持国家自然科学基金项目3项，主持省部级项目（湖北省自然科学基金）1项，主持并完成湖北省教育厅项目1项、主持校级基金项目3项，以第一作者或通讯作者公开发表期刊论文30余篇；出版专著2部。
     </Paragraph>
     <Divider />

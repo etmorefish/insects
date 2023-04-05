@@ -34,7 +34,7 @@ export default function CompanyPage() {
                     </Col>
                 </Row>
             </div>
-            <span style={{fontSize: '30px'}}>不断超越，快速发展。打造有抱负、责任感、受尊重国家战略团队，把公司建设成为国际一流昆虫集团。</span><br />
+            <span style={{fontSize: '30px' ,textIndent: '2em'}}>不断超越，快速发展。打造有抱负、责任感、受尊重国家战略团队，把公司建设成为国际一流昆虫集团。</span><br />
 
             <Row>
 
