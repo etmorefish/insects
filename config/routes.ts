@@ -7,95 +7,113 @@ export default [
         path: '/',
         name: 'index',
         icon: 'smile',
-        component: '@/pages/index.tsx'
+        component: '@/pages/index.tsx',
       },
       {
         path: '/company',
         name: 'company',
         icon: 'smile',
-        component: '@/pages/company/index.tsx'
+        component: '@/pages/company/index.tsx',
       },
       {
         path: '/cultivate',
         name: 'cultivate',
         icon: 'smile',
-        component: '@/pages/cultivate/index.tsx'
+        component: '@/pages/cultivate/index.tsx',
       },
       {
         path: '/cultivate/chain',
         name: 'chain',
         icon: 'smile',
-        component: '@/pages/cultivate/chain/index.tsx'
+        component: '@/pages/cultivate/chain/index.tsx',
       },
       {
         path: '/cultivate/tech',
         name: 'tech',
         icon: 'smile',
-        component: '@/pages/cultivate/tech/index.tsx'
+        component: '@/pages/cultivate/tech/index.tsx',
       },
       {
         path: '/craft',
         name: 'craft',
         icon: 'smile',
-        component: '@/pages/craft/index.tsx'
+        component: '@/pages/craft/index.tsx',
       },
       {
         path: '/knowledge',
         name: 'knowledge',
         icon: 'smile',
-        component: '@/pages/knowledge/index.tsx'
+        component: '@/pages/knowledge/index.tsx',
       },
       {
         path: '/knowledge/coleoptera',
         name: 'coleoptera',
         icon: 'smile',
-        component: '@/pages/knowledge/coleoptera/index.tsx'
+        component: '@/pages/knowledge/coleoptera/index.tsx',
       },
       {
         path: '/knowledge/isoptera',
         name: 'isoptera',
         icon: 'smile',
-        component: '@/pages/knowledge/isoptera/index.tsx'
+        component: '@/pages/knowledge/isoptera/index.tsx',
       },
       {
         path: '/knowledge/lepidoptera',
         name: 'lepidoptera',
         icon: 'smile',
-        component: '@/pages/knowledge/lepidoptera/index.tsx'
+        component: '@/pages/knowledge/lepidoptera/index.tsx',
       },
       {
         path: '/knowledge/other',
         name: 'other',
         icon: 'smile',
-        component: '@/pages/knowledge/other/index.tsx'
+        component: '@/pages/knowledge/other/index.tsx',
       },
       {
         path: '/travel',
         name: 'travel',
         icon: 'smile',
-        component: '@/pages/travel'
+        component: '@/pages/travel',
       },
       {
         path: '/medicine',
         name: 'medicine',
         icon: 'smile',
-        component: '@/pages/medicine/index.tsx'
+        component: '@/pages/medicine/index.tsx',
       },
-       {
+      {
+        path: '/medicine/white-silkmoth',
+        name: 'medicine',
+        icon: 'smile',
+        component: '@/pages/medicine/white-silkmoth.tsx',
+      },
+      {
+        path: '/medicine/earth-elemental',
+        name: 'medicine',
+        icon: 'smile',
+        component: '@/pages/medicine/earth-elemental.tsx',
+      },
+      {
+        path: '/medicine/nine-spice-insect',
+        name: 'medicine',
+        icon: 'smile',
+        component: '@/pages/medicine/nine-spice-insect.tsx',
+      },
+      {
         path: '/card',
         name: 'card',
         icon: 'smile',
-        component: '@/pages/card'
+        component: '@/pages/card',
       },
       {
         path: '/404',
         name: '404',
         icon: 'smile',
-        component: '@/pages/errors/404'
+        component: '@/pages/errors/404',
       },
       {
         component: '@/pages/errors/404',
       },
     ],
   },
-]
+];
